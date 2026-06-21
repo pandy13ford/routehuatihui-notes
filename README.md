@@ -1,2 +1,14 @@
 # routehuatihui-notes
-HTML page archive and documentation
+
+静态页面保存仓库
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
